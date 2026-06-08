@@ -1,0 +1,5 @@
+[
+  { "category": "Calzado",     "threshold": 80.00,  "discount": 0.08 },
+  { "category": "Tecnología",  "threshold": 1200.00,"discount": 0.20 },
+  { "category": "Hogar",       "threshold": 200.00, "discount": 0.07 }
+]
