@@ -1,0 +1,5 @@
+[
+  { "category": "Ropa",        "threshold": 100.00, "discount": 0.10 },
+  { "category": "Hogar",       "threshold": 50.00,  "discount": 0.05 },
+  { "category": "Electrónica", "threshold": 1000.00,"discount": 0.15 }
+]
